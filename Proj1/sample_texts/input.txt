@@ -1,0 +1,6 @@
+networks
+I love CS341! It's great!
+This is a short message.
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+ 1234567890
+	~!@#$%^&*()-_+=/?,.<>[]{}\|
